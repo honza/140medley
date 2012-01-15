@@ -83,7 +83,7 @@ var s = function(
         return a[c] &&  // and if the key exists
           b.parse(a[c]) // parses and returns it,
       },
-      
+
       set: function(     // and a setter function
         c,               // that takes a key
         d                // and a value
@@ -194,7 +194,7 @@ var $ = function(
   )[
     "getElement" + (         // obtained by the appropriate method calculated by
       b = a[1]
-        ? b == "#"      
+        ? b == "#"
           ? "ById"           // the node by ID,
           : "sByClassName"   // the nodes by class name, or
         : "sByTagName"       // the nodes by tag name,
