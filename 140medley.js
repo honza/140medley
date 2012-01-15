@@ -1,5 +1,7 @@
 /*
  * 140 medley
+ * (c) 2011 - Honza Pokorny
+ * Licensed under the terms of the BSD license
  *
  * This is a micro-framework or a collection of small, helpful utilities for
  * common javascript tasks.
@@ -17,21 +19,6 @@
  *  - DOM selector - $();
  *  - Get cross-browser xhr - j();
  *
- *
- *           DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
- *                   Version 2, December 2004
- *
- * Copyright (C) 2011 Honza Pokorny <me@honza.ca>
- *
- * Everyone is permitted to copy and distribute verbatim or modified
- * copies of this license document, and changing it is allowed as long
- * as the name is changed.
- *
- *           DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
- *  TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
- *
- *
- *   0. You just DO WHAT THE FUCK YOU WANT TO.
  */
 
 /*
@@ -44,24 +31,8 @@
  *    hello({name: "Jed"})
  *  )
  *
- *
- *
- *            DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
- *                    Version 2, December 2004
- *
- * Copyright (C) 2011 Jed Schmidt <http://jed.is>
- *
- * Everyone is permitted to copy and distribute verbatim or modified
- * copies of this license document, and changing it is allowed as long
- * as the name is changed.
- *
- *            DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
- *   TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
- *
- *
- *    0. You just DO WHAT THE FUCK YOU WANT TO.
- *
- *  More: https://gist.github.com/964762
+ * Copyright (C) 2011 Jed Schmidt <http://jed.is> - WTFPL
+ * More: https://gist.github.com/964762
  */
 
 var t = function(
@@ -95,26 +66,8 @@ var t = function(
 /*
  * LocalStorage
  *
- * Usage:
- *
- *
- *
- *            DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
- *                    Version 2, December 2004
- *
- * Copyright (C) 2011 Jed Schmidt <http://jed.is>
- *
- * Everyone is permitted to copy and distribute verbatim or modified
- * copies of this license document, and changing it is allowed as long
- * as the name is changed.
- *
- *            DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
- *   TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
- *
- *
- *    0. You just DO WHAT THE FUCK YOU WANT TO.
- *
- *  More: https://gist.github.com/966030
+ * Copyright (C) 2011 Jed Schmidt <http://jed.is> - WTFPL
+ * More: https://gist.github.com/966030
  *
  */
 
@@ -155,23 +108,8 @@ var s = function(
  *     console.log('clicked');
  *   });
  *
- *
- *            DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
- *                    Version 2, December 2004
- *
- * Copyright (C) 2011 Jed Schmidt <http://jed.is>
- *
- * Everyone is permitted to copy and distribute verbatim or modified
- * copies of this license document, and changing it is allowed as long
- * as the name is changed.
- *
- *            DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
- *   TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
- *
- *
- *    0. You just DO WHAT THE FUCK YOU WANT TO.
- *
- *  More: https://gist.github.com/968186
+ * Copyright (C) 2011 Jed Schmidt <http://jed.is> - WTFPL
+ * More: https://gist.github.com/968186
  *
  */
 
@@ -209,19 +147,8 @@ var p = function(
  *            DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
  *                    Version 2, December 2004
  *
- * Copyright (C) 2011 Jed Schmidt <http://jed.is>
- *
- * Everyone is permitted to copy and distribute verbatim or modified
- * copies of this license document, and changing it is allowed as long
- * as the name is changed.
- *
- *            DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
- *   TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
- *
- *
- *    0. You just DO WHAT THE FUCK YOU WANT TO.
- *
- *  More: https://gist.github.com/966233
+ * Copyright (C) 2011 Jed Schmidt <http://jed.is> - WTFPL
+ * More: https://gist.github.com/966233
  *
  */
 
@@ -251,22 +178,8 @@ var m = function(
  *   $('.name');
  *
  *
- *            DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
- *                    Version 2, December 2004
- *
- * Copyright (C) 2011 Jed Schmidt <http://jed.is>
- *
- * Everyone is permitted to copy and distribute verbatim or modified
- * copies of this license document, and changing it is allowed as long
- * as the name is changed.
- *
- *            DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
- *   TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
- *
- *
- *    0. You just DO WHAT THE FUCK YOU WANT TO.
- *
- *  More: https://gist.github.com/991057
+ * Copyright (C) 2011 Jed Schmidt <http://jed.is> - WTFPL
+ * More: https://gist.github.com/991057
  *
  */
 
@@ -300,18 +213,7 @@ var $ = function(
  *                    Version 2, December 2004
  *
  * Copyright (C) 2011 Jed Schmidt <http://jed.is>
- *
- * Everyone is permitted to copy and distribute verbatim or modified
- * copies of this license document, and changing it is allowed as long
- * as the name is changed.
- *
- *            DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
- *   TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
- *
- *
- *    0. You just DO WHAT THE FUCK YOU WANT TO.
- *
- *  More: https://gist.github.com/993585
+ * More: https://gist.github.com/993585
  *
  */
 
