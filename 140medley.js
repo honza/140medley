@@ -158,7 +158,7 @@ var m = function(
   c  // placeholder
 ){
   b = document;                   // get the document,
-  c = b.createElement("p");       // create a container element,
+  c = b.createElement("div");       // create a container element,
   c.innerHTML = a;                // write the HTML to it, and
   a = b.createDocumentFragment(); // create a fragment.
 
