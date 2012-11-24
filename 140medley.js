@@ -193,8 +193,8 @@ var $ = function(
     || document              // or document,
   )[
     "getElement" + (         // obtained by the appropriate method calculated by
-      b = a[1]
-        ? b == "#"
+      a[1]
+        ? a[1] == "#"
           ? "ById"           // the node by ID,
           : "sByClassName"   // the nodes by class name, or
         : "sByTagName"       // the nodes by tag name,
